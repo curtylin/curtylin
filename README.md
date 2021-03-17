@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Curtis Lin
+- 👀 I’m interested in AI, ML, Autonomous Driving Systems
+- 🌱 I’m currently learning Databases, Computer Networks, AI, Computer Security
+- 📫 How to reach me https://www.linkedin.com/in/curtis-lin/
